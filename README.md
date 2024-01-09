@@ -11,12 +11,13 @@
 [reactjs-couchdb-cloud-api](https://github.com/armanriazi/armanriazi-reactjs-couchdb-cloud-api)
 
 
-
 ## Table of My Rust Experience
 
 | Repository      |     Project     | Integrated/Tools with |    Scope    |
 |:---------------:|:---------------:|:---------------:|:---------------:|
-|  nodejs-projects | Webserver, Websocket, Rest api  |        Json, Postgresql      | Web 2.0 development |
-| typescript-all-in-one | typescript-all-in-one |      Pure TS   |    Web development   |
+| typescript-all-in-one | typescript-all-in-one |      Pure TS   |    Backend development   |
+|  nodejs-projects | Webserver, Websocket, Rest api  |        Json, Postgresql      | Backend development |
+| nestjs-projects | typescript-all-in-one |      NestJS framework   |    Backend development   |
+| reactjs-couchdb-cloud-api | reactjs-couchdb-cloud-api |      CouchDB, Json, Restful API   |    Fullstack development   |
 
 **[Backend Experiance](https://armanriazi.github.io/public/programming/programming/)**
