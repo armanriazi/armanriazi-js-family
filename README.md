@@ -4,6 +4,8 @@
 
 [typescript-all-in-one](https://github.com/armanriazi/typescript-all-in-one)
 
+[typescript-all-in-one-projects](https://github.com/armanriazi/typescript-all-in-one-projects)
+
 [nestjs-projects](https://github.com/armanriazi/nestjs-projects)
 
 [nodejs-projects](https://github.com/armanriazi/nodejs-projects)
