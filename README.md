@@ -2,6 +2,8 @@
 
 ## Included repositories
 
+[reactjs-couchdb-cloud-api](https://github.com/armanriazi/armanriazi-reactjs-couchdb-cloud-api)
+
 [typescript-all-in-one](https://github.com/armanriazi/typescript-all-in-one)
 
 [typescript-all-in-one-projects](https://github.com/armanriazi/typescript-all-in-one-projects)
@@ -10,8 +12,9 @@
 
 [nodejs-projects](https://github.com/armanriazi/nodejs-projects)
 
-[reactjs-couchdb-cloud-api](https://github.com/armanriazi/armanriazi-reactjs-couchdb-cloud-api)
+[reactjs-projects](https://github.com/armanriazi/reactjs-projects)
 
+[testjs-projects](https://github.com/armanriazi/testjs-projects)
 
 ## Table of My Rust Experience
 
