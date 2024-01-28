@@ -12,6 +12,8 @@
 
 [nodejs-projects](https://github.com/armanriazi/nodejs-projects)
 
+[angular-projects](https://github.com/armanriazi/angular-projects)
+
 [reactjs-projects](https://github.com/armanriazi/reactjs-projects)
 
 [testjs-projects](https://github.com/armanriazi/testjs-projects)
