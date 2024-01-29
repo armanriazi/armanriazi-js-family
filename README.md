@@ -10,6 +10,8 @@
 
 [nestjs-projects](https://github.com/armanriazi/nestjs-projects)
 
+[nestjs-microservice-projects](https://github.com/armanriazi/nestjs-microservice-projects)
+
 [nodejs-projects](https://github.com/armanriazi/nodejs-projects)
 
 [angular-projects](https://github.com/armanriazi/angular-projects)
